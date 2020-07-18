@@ -19,6 +19,6 @@
         "density": "2.0"
     }
 
- ]
-
+ ],
+ "start_url": "./index.html"
 }
