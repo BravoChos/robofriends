@@ -1,5 +1,6 @@
 {
- "name": "App",
+    "short_name": "Robo",
+ "name": "Robo App",
  "icons": [
     {
         "src": "favicon.ico",
