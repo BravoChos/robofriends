@@ -1,19 +1,26 @@
 {
  "name": "App",
  "icons": [
+    {
+        "src": "favicon.ico",
+        "sizes": "16x16 32x32 96x96",
+        "type": "image/x-icon",
+    },
+    {
+        "src": "\/android-icon-72x72.png",
+        "sizes": "72x72",
+        "type": "image\/png",
+        "density": "1.5"
+    },
+    {
+        "src": "\/android-icon-96x96.png",
+        "sizes": "96x96",
+        "type": "image\/png",
+        "density": "2.0"
+    }
 
-  {
-   "src": "\/android-icon-72x72.png",
-   "sizes": "72x72",
-   "type": "image\/png",
-   "density": "1.5"
-  },
-  {
-   "src": "\/android-icon-96x96.png",
-   "sizes": "96x96",
-   "type": "image\/png",
-   "density": "2.0"
-  }
-
- ]
+ ],
+ "start_url": "./index.html",
+ "display": "standalone",
+ "theme_color": "#000000"
 }
